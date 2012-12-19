@@ -12,10 +12,10 @@ normally each embedded answer would be graded separately and worth one point. Wi
 
 ## Installation
 1. Download the contents of the repository
-2. Move the folder "multianswerset" to <your moodle>/question/type/
+2. Move the folder "multianswerset" to \<your moodle\>/question/type/
 3. Login to your Moodle site on an Admin account
 4. Click on "Notifications" under the Site Administration menu
-5. The page should show a confirmation that the module was successfully installed
+5. This page should show a confirmation that the module was successfully installed
 
 ##Usage
-Once you have installed the module, if you enter the question bank for any quiz, "All or Nothing Embedded Answers (Cloze)" will be an option for a new question. The question content is written the same as the standard [Embedded Answers (Cloze)](http://docs.moodle.org/19/en/Embedded_Answers_(Cloze)_question_type) module. 
+Once you have installed the module, if you enter the question bank for any quiz, "All or Nothing Embedded Answers (Cloze)" will be an option for a new question. The question content is written the same as the standard [Embedded Answers (Cloze)](http://docs.moodle.org/19/en/Embedded_Answers_\(Cloze\)_question_type) module. 
